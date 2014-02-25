@@ -14,6 +14,14 @@ H1 {font-weight: 900;}
   padding: 6px;
 }
 
+#myTable td {
+	font-weight: 300;
+	font-size: 0.8em;
+	vertical-align: top;
+	height: 0px;
+	width: 100%;
+	padding: 0px;
+}
 
 #bizcanvas H4 {
   font-weight: 700;
